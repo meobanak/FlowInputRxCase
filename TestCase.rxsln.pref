@@ -1,0 +1,12 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{3403F846-C79A-4D0E-AAE9-C3D15AA3FFCB}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution TestCase[TestCase[Reports[]Recording1.rxrec[]Repository1.rxrep[]]]]&#xD;&#xA;Solution TestCase\TestCase\Recording1.rxrec&#xD;&#xA;Solution TestCase\TestCase\Reports\TestCase_20180927_133519.rxlog" />
+  <StartupProject value="{3403F846-C79A-4D0E-AAE9-C3D15AA3FFCB}" />
+</Properties>

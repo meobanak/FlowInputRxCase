@@ -1,0 +1,25 @@
+﻿<Properties>
+  <Array name="bookmarks">
+    <Element value="Breakpoint|E:\TestCaseFolder\TestCase\TestCase\Recording1.UserCode.cs|89|1|True|Break||" />
+    <Element value="Breakpoint|E:\TestCaseFolder\TestCase\TestCase\Recording1.UserCode.cs|154|1|True|Break||" />
+    <Element value="Breakpoint|E:\TestCaseFolder\TestCase\TestCase\Recording1.cs|76|1|True|Break||" />
+  </Array>
+  <Array name="files">
+    <Element value="Recording1.rxrec" />
+    <Element value="Repository1.cs" />
+    <Element value="Repository1.rxrep" />
+    <Element value="TestCase.rxtst" />
+    <Element value="ReportToPDF_7.X.cs" />
+    <Element value="Recording1.cs" />
+    <Element value="Recording1.Repository.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+    <Array name="recentusercodeselections">
+      <Element value="TestCase.Recording1.Key_sequence_TextMaskBox(RepoItemInfo textInfo)" />
+      <Element value="TestCase.Recording1.UserCodeMethod(RepoItemInfo argument1)" />
+    </Array>
+  </Properties>
+</Properties>
