@@ -174,7 +174,6 @@ namespace TestCase
                             richEditControl1 = repo.FrmNewDetail.RichEditControl1;
                             #endregion
 
-
                             Mouse.Click(richEditControl1.ScreenRectangle.Location);
                             //richEditControl1.PressKeys("Reason", 0);
                             Keyboard.EscapeSequence("Reason");
@@ -337,7 +336,7 @@ namespace TestCase
                         }
                         #endregion
 
-
+                        
 
 
 
@@ -381,7 +380,6 @@ namespace TestCase
             {
                 Lo_btnThemthuoc = repo.FrmNewDetail.MainPanel.ThemThuốc.ScreenRectangle.Location;
                 //Lo_btnThemthuoc = btnThemthuoc.ScreenRectangle.Location;
-
             }
 
 
