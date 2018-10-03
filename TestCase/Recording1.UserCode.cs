@@ -175,7 +175,7 @@ namespace TestCase
                             #endregion
 
                             Mouse.Click(richEditControl1.ScreenRectangle.Location);
-                            //richEditControl1.PressKeys("Reason", 0);
+                            richEditControl1.PressKeys("Reason", 0);
                             Keyboard.EscapeSequence("Reason");
                             //                     var txtICDChinh = repo.FrmNewDetail.TextMaskBox;
                             //                     txtICDChinh.PressKeys("K51",0);
